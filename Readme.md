@@ -3,7 +3,11 @@ ChatGPT
 Projeto de Catálogo de Filmes com React
 Este projeto é um catálogo de filmes criado com React, utilizando a API do TMDB (The Movie Database) para obter informações sobre filmes. O projeto faz uso de hooks e React Router para gerenciar o estado e a navegação entre páginas. A estrutura do projeto foi inicializada com Vite, que proporciona um ambiente de desenvolvimento rápido e eficiente.
 
-![alt text](<projeto filmes.gif>)
+
+
+https://github.com/WesleyBert/FilmeFlix/assets/90710910/d9b39ad3-1733-4062-84c6-f6984f2afade
+
+
 
 Funcionalidades
 Listagem de filmes populares: Exibe uma lista de filmes populares obtidos da API do TMDB.
