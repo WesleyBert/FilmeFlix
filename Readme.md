@@ -25,6 +25,7 @@ Clone o repositório:
 bash
 Copiar código
 git clone https://github.com/WesleyBert/FilmeFlix.git
+
 Navegue até o diretório do projeto:
 bash
 Copiar código
